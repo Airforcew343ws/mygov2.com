@@ -1,0 +1,55 @@
+p.p98 {
+    font-size: 14px;
+}
+
+
+span.err_span {
+    font-size: 15px;
+    color: #970e0e;
+    display: none;
+}
+
+
+
+
+.has_err .err_span{
+    display:block;
+}
+
+
+
+.has_err .form-control{
+    border-color:#6e0707 !important;
+}
+
+
+ 
+.has_err .formLabel{
+    color:#650202 !important;
+}
+
+small {
+    font-size: 12px;
+}
+
+
+ .form-control-wrapper {
+   position: relative;
+   display: inline;
+ }
+.form-control{
+  width:100%;
+}
+ span.card-logos {
+   position: absolute;
+   right: 6px;
+   bottom: -4px;
+ }
+ 
+ .card-logo {
+   width: 31px;
+ }
+ 
+ img.cvv-logo {
+   width: 34px;
+ }
