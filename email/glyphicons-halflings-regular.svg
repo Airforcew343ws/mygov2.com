@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<link href="web/L001/css/common/sessionError.css" rel="stylesheet" type="text/css"></link>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></meta>
+		
+		<script language="javascript" type="text/javascript" src="web/L001/script/common.js"></script>
+		<title>ANZ-Internet Banking</title>
+	</head>
+	
+	
+
+	<body>
+		
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td valign="top" class="spacerW12"><spacer height="1" width="1" type="block"></spacer></td>
+				<td valign="top">
+					<table width="100%"  border="0" align="center" cellpadding="0" cellspacing="0">
+						<tr>
+							<td class="spacerH12"><spacer type="block" width="1" height="1"></spacer></td>
+						</tr>
+						<tr>
+							<td valign="top">
+								<table width="100%" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td width="10%">&#160;</td>
+										<td  class="actionHeaderTopPadding" valign="top">Access to this service is currently unavailable</td>
+										<td width="10%" align="right" valign="bottom"></td>
+									</tr>
+									<tr>
+										<td class="spacerH12"><spacer type="block" width="1" height="1"></spacer></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td class="spacerH12"><spacer type="block" width="1" height="1"></spacer></td>
+						</tr>
+						<tr>
+							<td class="spacerH12"><spacer type="block" width="1" height="1"></spacer></td>
+						</tr>
+						<tr>
+							<td valign="top">
+								<table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+									<tr valign="top">
+										<TD><img width="15" height="15" src="web/L001/images/blue_top.gif" alt=""></img></TD>
+										<td class="blueBorderTop"><img src="web/L001/images/trans_dot.gif" alt="s"></img></td>
+										<TD  valign="top"  class="blueBorderTopRight"><img src="web/L001/images/trans_dot.gif" alt="s"></img></TD>
+									</tr>
+									<TR valign="top">
+										<td class="blueBorderLeft" VALIGN="TOP"><img src="web/L001/images/trans_dot.gif" alt="s"></img></td>
+										<td valign="top" width="100%">
+											<table width="100%" cellpadding="0" cellspacing="0">
+												<tr align="left">
+													<td colspan="2"><font family="Verdana, Arial, Helvetica, Sans-serif" size="2" color="#0066cc"><B>Why you have not gained access</B></font></td>
+												</tr>
+												<tr>
+													<td colspan="2" class="spacerH19"><spacer type="block" width="1" height="1"></spacer></td>
+												</tr>
+												<tr>
+													<td colspan="2" class="text">Due to a high demand for Internet Banking, we regret this service is currently unavailable. Please try again later.</td>
+												</tr>
+												<tr>
+													<td colspan="2" align="right" class="spacerH19"><spacer type="block" width="1" height="1"></spacer></td>
+												</tr>
+												<tr>
+													<td width="27%" class="text">If you would like to try accessing your service again now, please logon to Internet Banking again.</td>
+													<td width="73%" align="left"></td>
+												</tr>
+												<tr >
+													<td width="100%"></td>
+												</tr>
+											</table>
+										</td>
+										<td class="blueBorderRight" valign="top"><img src="web/L001/images/trans_dot.gif" alt="s"></img></td>
+									</TR>
+									<TR>
+										<TD  valign="bottom"  width="13" height="13" class="blueBorderBottomLeft"><img src="web/L001/images/trans_dot.gif" alt="s"></img></TD>
+										<td class="blueBorderBottom" ><img src="web/L001/images/trans_dot.gif" alt="s"></img></td>
+										<TD  valign="bottom"  width="13" height="13"><img width="15" height="15" src="web/L001/images/blue_bottom.gif" alt="s"></img></TD>
+									</TR>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td valign="top" class="spacerW24"><spacer height="1" width="1" type="block"></spacer></td>
+			</tr>
+		</table>
+		<table width="100%">
+		</table>
+	</body>
+</html>
