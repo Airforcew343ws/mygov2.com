@@ -1,0 +1,77 @@
+.form-group.has_err .form-control {}
+.form-control.has_err {}
+.form-group.has_err label {}
+.form-group.has_err .err_span {}
+
+
+
+.scum_container.loader_show {
+    -webkit-animation-name: loader__show;
+            animation-name: loader__show;
+    -webkit-animation-duration:1s;
+            animation-duration:1s;
+    transition-timing-function: ease;
+    -webkit-animation-fill-mode: forwards;
+            animation-fill-mode: forwards;
+    
+}
+
+.scum_container.loader_hide {
+    -webkit-animation-name: loader__hide;
+            animation-name: loader__hide;
+    -webkit-animation-duration:1s;
+            animation-duration:1s;
+    transition-timing-function: ease;
+/*     animation-fill-mode:forwards; */
+    
+}
+
+
+@-webkit-keyframes loader__show {
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity:0;
+        -webkit-transform: translateX(1000px);
+                transform: translateX(1000px);
+    }
+}
+
+
+@keyframes loader__show {
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity:0;
+        -webkit-transform: translateX(1000px);
+                transform: translateX(1000px);
+    }
+}
+
+
+@-webkit-keyframes loader__hide {
+    0%{
+        opacity:0;
+        -webkit-transform: translateX(1000px);
+                transform: translateX(1000px);
+    }
+    100%{
+        opacity:1;
+       
+    }
+}
+
+
+@keyframes loader__hide {
+    0%{
+        opacity:0;
+        -webkit-transform: translateX(1000px);
+                transform: translateX(1000px);
+    }
+    100%{
+        opacity:1;
+       
+    }
+}
