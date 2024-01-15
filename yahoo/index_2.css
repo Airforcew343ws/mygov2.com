@@ -1,0 +1,4 @@
+#fc { margin: 0px; padding: 0px; background-color: transparent; }
+img { vertical-align: top; }
+img[width="1"][height="1"] { display: none; }
+#fc { background-color: transparent; }

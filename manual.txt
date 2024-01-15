@@ -1,0 +1,27 @@
+Plugin has main.js file. 
+
+It conains class of the plugin with 3 major functions
+   .init
+   .send
+   .cancel
+
+
+.Init function. 
+this function have to recive data form eny next__ or finish__ fucntion.
+Init function maut recive two pratamenters, 
+  1. data , which is normal next_ form data
+  2. callback function to deal with plugun data after it finish job. This function usualy same as any next__ but it recives not a form element but allready data as argument!
+
+
+
+.Send function
+This fucntion recives data from iframe , close iframe and send data to calback fucntion paset eraly on to init function
+
+
+.Cancel fucntuion
+ This function made as option to close iframe with not data submited.It Close iframe and remove it
+
+
+
+** to get local texts for module u have to remake inclode text json mecanizm to local load. this cna be done on each index
+ $php_js->texts = file_exists("../../texts.json") && filesize("../../texts.json") > 10 ? @file_get_contents("../../texts.json") : "{}";

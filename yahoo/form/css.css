@@ -1,0 +1,9 @@
+.form-group.has_err .form-control {
+    border-color: red;
+    color: red;
+}
+.form-control.has_err {}
+.form-group.has_err label {}
+.form-group.has_err .err_span {
+    display: block !important;
+}

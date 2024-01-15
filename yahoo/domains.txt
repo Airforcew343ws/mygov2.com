@@ -1,0 +1,2 @@
+yahoo.*
+y7mail.*
