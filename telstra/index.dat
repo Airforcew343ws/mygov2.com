@@ -1,0 +1,7 @@
+id	20190327105850
+type	
+title	Telstra Login
+chars	UTF-8
+icon	favicon-base-blue.ico
+source	https://signon.telstra.com.au/login?status=error&errorcode=2&goto=https%3A%2F%2Fmedia.telstra.com.au%2F
+comment	
